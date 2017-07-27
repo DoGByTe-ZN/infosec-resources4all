@@ -7,7 +7,7 @@
 
 # [Table of Contents]
 
-1. YouTube Channels
+1. [Youtube Channels](https://github.com/user/repo/blob/branch/other_file.md)
 2.
 3.
 4.
