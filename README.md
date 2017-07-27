@@ -7,6 +7,7 @@
 
 # [Table of Contents]
 
-1. Youtube Channels
+1. YouTube Channels
 
-#[Youtube]
+# [YouTube]
+
