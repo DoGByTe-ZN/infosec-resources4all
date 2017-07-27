@@ -21,7 +21,7 @@
 12.
 
 # [YouTube Channels]
-[Adrian Crenshaw](https://www.youtube.com/channel/UC4PBNDLlS4d75MP0xxcukGA)
+[Adrian Crenshaw](https://www.youtube.com/user/irongeek/playlists)
 # [Super Stars]
 # [LinkedIn Articles]
 # [Incident Response]
