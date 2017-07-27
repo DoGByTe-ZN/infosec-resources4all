@@ -18,6 +18,7 @@
 9.
 10.
 11.
+12.
 
 # [YouTube Channels]
 # [Super Stars]
@@ -31,3 +32,4 @@
 # [Vendor Blogs]
 # [CIRTs]
 # [Threat Intelligence]
+# [Linux]
