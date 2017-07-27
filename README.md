@@ -3,7 +3,7 @@
 
 -The resources shared below have personally benefited me greatly in persuing a career within the IT Security & Information Security job sectors.
 
--The content essentially covers [Blue Team] & [Red Team] information, as it is imperataive that one understands both sides of the war zone before engaging the target.
+-The content essentially covers [Blue Team] & [Red Team] information, as it is imperative that one understands both sides of the war zone before engaging the target.
 
 # [Table of Contents]
 
