@@ -6,3 +6,7 @@
 -The content essentially covers [Blue Team] & [Red Team] information, as it is imperitave that one understands both side of the war zone
 
 # [Table of Contents]
+
+1. Youtube Channels
+
+#[Youtube]
