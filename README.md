@@ -7,7 +7,7 @@
 
 # [Table of Contents]
 
-1. [Youtube Channels](https://github.com/user/repo/blob/branch/other_file.md)
+1. [Youtube Channels](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#youtube-channels)
 2.
 3.
 4.
