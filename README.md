@@ -19,6 +19,7 @@
 10.
 11.
 12.
+13.
 
 # [YouTube Channels]
 [Adrian Crenshaw](https://www.youtube.com/user/irongeek/playlists)
@@ -36,3 +37,4 @@ Adrian *Irongeek* Crenshaw records most InfoSec conferences in and around the US
 # [CIRTs]
 # [Threat Intelligence]
 # [Linux]
+# [Current Certification Focus]
