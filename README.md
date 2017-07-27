@@ -22,6 +22,8 @@
 
 # [YouTube Channels]
 [Adrian Crenshaw](https://www.youtube.com/user/irongeek/playlists)
+
+Adrian *Irongeek* Crenshaw records most InfoSec conferences in and around the USA.
 # [Super Stars]
 # [LinkedIn Articles]
 # [Incident Response]
