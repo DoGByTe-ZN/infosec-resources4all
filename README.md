@@ -31,10 +31,10 @@ Adrian *Irongeek* Crenshaw records most InfoSec conferences in and around the US
 # [CTFs]
 # [Cloud Security]
 # [Facebook Groups]
-# [Vendor Blogs]
+# [Threat Intelligence]
+[Talos Intelligence](https://www.talosintelligence.com)
 # [CSIRTs]
 [State Security Agency, Republic of South Africa](http://www.ssa.gov.za/CSIRT.aspx)
-# [Threat Intelligence]
 # [Linux]
 # [Python]
 # [Powershell]
