@@ -36,8 +36,6 @@ Adrian Irongeek Crenshaw records most InfoSec conferences in and around the USA.
 
 [DEFCONConference](https://www.youtube.com/user/DEFCONConference/playlists)
 
-[FIRST](https://www.youtube.com/channel/UCK3_z6YyWvfqrOuCmrfxsTw/videos)
-
 [Hak5](https://www.youtube.com/user/Hak5Darren/playlists)
 
 [RSA Conference](https://www.youtube.com/user/RSAConference/playlists)
@@ -46,8 +44,6 @@ Adrian Irongeek Crenshaw records most InfoSec conferences in and around the USA.
 
 [Security Onion](https://www.youtube.com/channel/UCNBFTyYCdjT5hnm7uW25vGQ/playlists)
 
-[SANS Digital Forensics and Incident Response](https://www.youtube.com/user/robtlee73/playlists)
-
 [NetSecNow](https://www.youtube.com/user/NetSecNow/videos)
 
 
@@ -55,14 +51,28 @@ Adrian Irongeek Crenshaw records most InfoSec conferences in and around the USA.
 
 [Adrian Crenshaw](http://www.irongeek.com)
 
+[Javvad Malik](https://www.j4vv4d.com)
+
 [Jayson E. Street](http://f0rb1dd3n.com/author.php)
 
 [Tyler L. Jones](http://voxisec.com/)
-# [Incident Response]
+# [Incident Response & Forensics]
+
+[FIRST](https://www.youtube.com/channel/UCK3_z6YyWvfqrOuCmrfxsTw/videos)
+
+[SANS Digital Forensics and Incident Response](https://www.youtube.com/user/robtlee73/playlists)
+
 # [CTFs]
 [Hack The Box](https://www.hackthebox.eu/en)
 # [Cloud Security]
 # [Facebook Groups]
+
+[Cisco Cyber Ops Study Group](https://www.facebook.com/groups/414895922232717)
+
+[CCNP Cyber Ops Study Group](https://www.facebook.com/groups/308820696237822)
+
+Only CCNA Cyber Ops certified members will be accepted into this group
+
 # [Threat Intelligence]
 [Talos Intelligence](https://www.talosintelligence.com)
 
@@ -74,16 +84,24 @@ Adrian Irongeek Crenshaw records most InfoSec conferences in and around the USA.
 
 [Sonet Institute of Technology](https://www.youtube.com/channel/UCBWHM2PThuid9gw69nasf1w/videos)
 
+[NDG Linux Unhatched](https://www.netacad.com/courses/ndg-linux-unhatched)
+
 # [Python]
 # [Powershell]
 # [Git]
 [Learn Git](https://www.codecademy.com/learn/learn-git)
 # [Current Certification Focus]
+
+[Cisco CCNA Cyber Ops](https://learningnetwork.cisco.com/community/certifications/ccna-cyber-ops)
+
 [CompTIA Cybersecurity Analyst (CSA+)](https://certification.comptia.org/certifications/cybersecurity-analyst)
 
 [Certified Ethical Hacker (CEHv9)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh)
 
 # [HUGE Collection]
+
+[Cisco Devnet: APIs, SDKs, Sandbox, and Community for Cisco Developers](https://developer.cisco.com/site/devnet/home/index.gsp)
+
 [Cybrary.it](https://www.cybrary.it)
 
 [Microsoft eBooks](https://blogs.msdn.microsoft.com/mssmallbiz/2016/07/10/free-thats-right-im-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-office-365-office-2016-power-bi-azure-windows-8-1-office-2013-sharepoint-2016-sha)
