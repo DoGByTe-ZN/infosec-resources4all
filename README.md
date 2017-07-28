@@ -26,16 +26,33 @@
 
 Adrian *Irongeek* Crenshaw records most InfoSec conferences in and around the USA.
 # [Super Stars]
-# [LinkedIn Articles]
+[Tyler L. Jones](http://voxisec.com/)
 # [Incident Response]
 # [CTFs]
+[Hack The Box](https://www.hackthebox.eu/en)
 # [Cloud Security]
 # [Facebook Groups]
 # [Threat Intelligence]
 [Talos Intelligence](https://www.talosintelligence.com)
+
+[Brian Krebs](https://krebsonsecurity.com/)
 # [CSIRTs]
 [State Security Agency, Republic of South Africa](http://www.ssa.gov.za/CSIRT.aspx)
 # [Linux]
+[Linux Survival](http://linuxsurvival.com/linux-tutorial-introduction)
 # [Python]
 # [Powershell]
+# [Git]
+[Learn Git](https://www.codecademy.com/learn/learn-git)
 # [Current Certification Focus]
+[CompTIA Cybersecurity Analyst (CSA+)](https://certification.comptia.org/certifications/cybersecurity-analyst)
+
+[Certified Ethical Hacker (CEHv9)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh)
+
+# [HUGE Collection]
+[Cybrary.it](https://www.cybrary.it)
+
+[Microsoft eBooks](https://blogs.msdn.microsoft.com/mssmallbiz/2016/07/10/free-thats-right-im-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-office-365-office-2016-power-bi-azure-windows-8-1-office-2013-sharepoint-2016-sha)
+
+[Microsoft Virtual Academy](https://mva.microsoft.com)
+# [Paid Subscription Resources]
