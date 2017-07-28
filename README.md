@@ -8,18 +8,20 @@
 # [Table of Contents]
 
 1. [Youtube Channels](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#youtube-channels)
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
+2. [Super Stars](https://github.com/DoGByTe-ZN/infosec-resources4all#super-stars)
+3. [Incident Response & Forensics](https://github.com/DoGByTe-ZN/infosec-resources4all#incident-response--forensics)
+4. [CTFs](https://github.com/DoGByTe-ZN/infosec-resources4all#ctfs)
+5. [Cloud Security](https://github.com/DoGByTe-ZN/infosec-resources4all#cloud-security)
+6. [Facebook Groups](https://github.com/DoGByTe-ZN/infosec-resources4all#facebook-groups)
+7. [Threat Intelligence](https://github.com/DoGByTe-ZN/infosec-resources4all#threat-intelligence)
+8. [CSIRTs](https://github.com/DoGByTe-ZN/infosec-resources4all#csirts)
+9. [Linux](https://github.com/DoGByTe-ZN/infosec-resources4all#linux)
+10. [Python](https://github.com/DoGByTe-ZN/infosec-resources4all#python)
+11. [Powershell](https://github.com/DoGByTe-ZN/infosec-resources4all#powershell)
+12. [Git](https://github.com/DoGByTe-ZN/infosec-resources4all#git)
+13. [Current Certification Focus](https://github.com/DoGByTe-ZN/infosec-resources4all#current-certification-focus)
+14. [HUGE Collection](https://github.com/DoGByTe-ZN/infosec-resources4all#huge-collection)
+15. [Paid Subscription](https://github.com/DoGByTe-ZN/infosec-resources4all#paid-subscription)
 
 # [YouTube Channels]
 [Adrian Crenshaw](https://www.youtube.com/user/irongeek/playlists)
