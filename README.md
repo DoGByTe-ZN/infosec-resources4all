@@ -36,7 +36,7 @@ Adrian Irongeek Crenshaw records most InfoSec conferences in and around the USA.
 
 [Computerphile](https://www.youtube.com/user/Computerphile/videos)
 
-[DEFCONConference](https://www.youtube.com/user/DEFCONConference/playlists)
+[DEFCON Conference](https://www.youtube.com/user/DEFCONConference/playlists)
 
 [Hak5](https://www.youtube.com/user/Hak5Darren/playlists)
 
