@@ -57,7 +57,7 @@ Adrian Irongeek Crenshaw records most InfoSec conferences in and around the USA.
 
 [Jayson E. Street](http://f0rb1dd3n.com/author.php)
 
-[Tyler L. Jones](http://voxisec.com/)
+[Tyler L. Jones](http://isec.io)
 # [Incident Response & Forensics]
 
 [FIRST](https://www.youtube.com/channel/UCK3_z6YyWvfqrOuCmrfxsTw/videos)
