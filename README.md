@@ -32,7 +32,8 @@ Adrian *Irongeek* Crenshaw records most InfoSec conferences in and around the US
 # [Cloud Security]
 # [Facebook Groups]
 # [Vendor Blogs]
-# [CIRTs]
+# [CSIRTs]
+[State Security Agency, Republic of South Africa](http://www.ssa.gov.za/CSIRT.aspx)
 # [Threat Intelligence]
 # [Linux]
 # [Python]
