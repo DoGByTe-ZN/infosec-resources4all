@@ -55,4 +55,19 @@ Adrian *Irongeek* Crenshaw records most InfoSec conferences in and around the US
 [Microsoft eBooks](https://blogs.msdn.microsoft.com/mssmallbiz/2016/07/10/free-thats-right-im-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-office-365-office-2016-power-bi-azure-windows-8-1-office-2013-sharepoint-2016-sha)
 
 [Microsoft Virtual Academy](https://mva.microsoft.com)
-# [Paid Subscription Resources]
+# [Paid Subscription]
+
+[Cisco Networking Academy](https://www.netacad.com)
+
+[Pluralsight](https://www.pluralsight.com)
+
+[Safaribooksonline](https://www.safaribooksonline.com)
+
+[Linux Academy](https://linuxacademy.com)
+
+[Lynda.com](https://www.lynda.com)
+
+[CBT Nuggets](https://www.cbtnuggets.com)
+
+
+
