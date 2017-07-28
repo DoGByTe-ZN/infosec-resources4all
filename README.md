@@ -24,8 +24,39 @@
 # [YouTube Channels]
 [Adrian Crenshaw](https://www.youtube.com/user/irongeek/playlists)
 
-Adrian *Irongeek* Crenshaw records most InfoSec conferences in and around the USA.
+Adrian Irongeek Crenshaw records most InfoSec conferences in and around the USA.
+
+[Joseph Delgadillo](https://www.youtube.com/channel/UCqR4a4lUDbDkAFQnhw4pfXQ/playlists)
+
+[Black Hat](https://www.youtube.com/user/BlackHatOfficialYT/playlists)
+
+[Cisco](https://www.youtube.com/user/Cisco/playlists)
+
+[Computerphile](https://www.youtube.com/user/Computerphile/videos)
+
+[DEFCONConference](https://www.youtube.com/user/DEFCONConference/playlists)
+
+[FIRST](https://www.youtube.com/channel/UCK3_z6YyWvfqrOuCmrfxsTw/videos)
+
+[Hak5](https://www.youtube.com/user/Hak5Darren/playlists)
+
+[RSA Conference](https://www.youtube.com/user/RSAConference/playlists)
+
+[Security Weekly](https://www.youtube.com/user/SecurityWeeklyTV/playlists)
+
+[Security Onion](https://www.youtube.com/channel/UCNBFTyYCdjT5hnm7uW25vGQ/playlists)
+
+[SANS Digital Forensics and Incident Response](https://www.youtube.com/user/robtlee73/playlists)
+
+[NetSecNow](https://www.youtube.com/user/NetSecNow/videos)
+
+
 # [Super Stars]
+
+[Adrian Crenshaw](http://www.irongeek.com)
+
+[Jayson E. Street](http://f0rb1dd3n.com/author.php)
+
 [Tyler L. Jones](http://voxisec.com/)
 # [Incident Response]
 # [CTFs]
@@ -40,6 +71,9 @@ Adrian *Irongeek* Crenshaw records most InfoSec conferences in and around the US
 [State Security Agency, Republic of South Africa](http://www.ssa.gov.za/CSIRT.aspx)
 # [Linux]
 [Linux Survival](http://linuxsurvival.com/linux-tutorial-introduction)
+
+[Sonet Institute of Technology](https://www.youtube.com/channel/UCBWHM2PThuid9gw69nasf1w/videos)
+
 # [Python]
 # [Powershell]
 # [Git]
