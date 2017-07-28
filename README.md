@@ -7,7 +7,7 @@
 
 # [Table of Contents]
 
-1. [Youtube Channels](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#youtube-channels)
+1. [YouTube Channels](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#youtube-channels)
 2. [Super Stars](https://github.com/DoGByTe-ZN/infosec-resources4all#super-stars)
 3. [Incident Response & Forensics](https://github.com/DoGByTe-ZN/infosec-resources4all#incident-response--forensics)
 4. [CTFs](https://github.com/DoGByTe-ZN/infosec-resources4all#ctfs)
