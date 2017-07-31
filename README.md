@@ -9,19 +9,20 @@
 
 1. [YouTube Channels](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#youtube-channels)
 2. [Super Stars](https://github.com/DoGByTe-ZN/infosec-resources4all#super-stars)
-3. [Incident Response & Forensics](https://github.com/DoGByTe-ZN/infosec-resources4all#incident-response--forensics)
-4. [CTFs](https://github.com/DoGByTe-ZN/infosec-resources4all#ctfs)
-5. [Cloud Security](https://github.com/DoGByTe-ZN/infosec-resources4all#cloud-security)
-6. [Facebook Groups](https://github.com/DoGByTe-ZN/infosec-resources4all#facebook-groups)
-7. [Threat Intelligence](https://github.com/DoGByTe-ZN/infosec-resources4all#threat-intelligence)
-8. [CSIRTs](https://github.com/DoGByTe-ZN/infosec-resources4all#csirts)
-9. [Linux](https://github.com/DoGByTe-ZN/infosec-resources4all#linux)
-10. [Python](https://github.com/DoGByTe-ZN/infosec-resources4all#python)
-11. [Powershell](https://github.com/DoGByTe-ZN/infosec-resources4all#powershell)
-12. [Git](https://github.com/DoGByTe-ZN/infosec-resources4all#git)
-13. [Current Certification Focus](https://github.com/DoGByTe-ZN/infosec-resources4all#current-certification-focus)
-14. [HUGE Collection](https://github.com/DoGByTe-ZN/infosec-resources4all#huge-collection)
-15. [Paid Subscription](https://github.com/DoGByTe-ZN/infosec-resources4all#paid-subscription)
+3. [Books]
+4. [Incident Response & Forensics](https://github.com/DoGByTe-ZN/infosec-resources4all#incident-response--forensics)
+5. [CTFs](https://github.com/DoGByTe-ZN/infosec-resources4all#ctfs)
+6. [Cloud Security](https://github.com/DoGByTe-ZN/infosec-resources4all#cloud-security)
+7. [Facebook Groups](https://github.com/DoGByTe-ZN/infosec-resources4all#facebook-groups)
+8. [Threat Intelligence](https://github.com/DoGByTe-ZN/infosec-resources4all#threat-intelligence)
+9. [CSIRTs](https://github.com/DoGByTe-ZN/infosec-resources4all#csirts)
+10. [Linux](https://github.com/DoGByTe-ZN/infosec-resources4all#linux)
+11. [Python](https://github.com/DoGByTe-ZN/infosec-resources4all#python)
+12. [Powershell](https://github.com/DoGByTe-ZN/infosec-resources4all#powershell)
+13. [Git](https://github.com/DoGByTe-ZN/infosec-resources4all#git)
+14. [Current Certification Focus](https://github.com/DoGByTe-ZN/infosec-resources4all#current-certification-focus)
+15. [HUGE Collection](https://github.com/DoGByTe-ZN/infosec-resources4all#huge-collection)
+16. [Paid Subscription](https://github.com/DoGByTe-ZN/infosec-resources4all#paid-subscription)
 
 # [YouTube Channels]
 [Adrian Crenshaw](https://www.youtube.com/user/irongeek/playlists)
@@ -53,11 +54,18 @@ Adrian Irongeek Crenshaw records most InfoSec conferences in and around the USA.
 
 [Adrian Crenshaw](http://www.irongeek.com)
 
+[Dave Kennedy](https://www.trustedsec.com)
+
 [Javvad Malik](https://www.j4vv4d.com)
 
 [Jayson E. Street](http://f0rb1dd3n.com/author.php)
 
+[Omar Santos](https://santosomar.wordpress.com)
+
 [Tyler L. Jones](http://isec.io)
+
+# [Books]
+
 # [Incident Response & Forensics]
 
 [FIRST](https://www.youtube.com/channel/UCK3_z6YyWvfqrOuCmrfxsTw/videos)
@@ -79,6 +87,8 @@ Only CCNA Cyber Ops certified members will be accepted into this group
 [Talos Intelligence](https://www.talosintelligence.com)
 
 [Brian Krebs](https://krebsonsecurity.com/)
+
+[Binary Defense](http://blog.binarydefense.com/all)
 # [CSIRTs]
 [State Security Agency, Republic of South Africa](http://www.ssa.gov.za/CSIRT.aspx)
 # [Linux]
@@ -87,6 +97,8 @@ Only CCNA Cyber Ops certified members will be accepted into this group
 [Sonet Institute of Technology](https://www.youtube.com/channel/UCBWHM2PThuid9gw69nasf1w/videos)
 
 [NDG Linux Unhatched](https://www.netacad.com/courses/ndg-linux-unhatched)
+
+[Kali Linux Revealed](https://kali.training/downloads/Kali_Revealed_1st_edition.pdf)
 
 # [Python]
 # [Powershell]
