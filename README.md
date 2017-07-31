@@ -66,6 +66,12 @@ Adrian Irongeek Crenshaw records most InfoSec conferences in and around the USA.
 
 # [Books]
 
+[Defensive Security Handbook](https://www.amazon.com/Defensive-Security-Handbook-Practices-Infrastructure/dp/1491960388)
+
+[CCNA Cyber Ops SECFND 210-250 Official Cert Guide](https://www.amazon.com/Cyber-SECFND-210-250-Official-Certification/dp/1587147025)
+
+[CCNA Cyber Ops SECOPS 210-255 Official Cert Guide](https://www.amazon.com/Cyber-SECOPS-210-255-Official-Certification/dp/1587147033)
+
 # [Incident Response & Forensics]
 
 [FIRST](https://www.youtube.com/channel/UCK3_z6YyWvfqrOuCmrfxsTw/videos)
