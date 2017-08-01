@@ -85,6 +85,8 @@ Adrian Irongeek Crenshaw records most InfoSec conferences in and around the USA.
 
 [Cisco Cyber Ops Study Group](https://www.facebook.com/groups/414895922232717)
 
+10k+ Group Members
+
 [CCNP Cyber Ops Study Group](https://www.facebook.com/groups/308820696237822)
 
 Only CCNA Cyber Ops certified members will be accepted into this group
