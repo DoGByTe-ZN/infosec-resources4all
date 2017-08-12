@@ -80,7 +80,10 @@ Adrian Irongeek Crenshaw records most InfoSec conferences in and around the USA.
 
 # [CTFs]
 [Hack The Box](https://www.hackthebox.eu/en)
+
+[Wargames](http://overthewire.org/wargames)
 # [Cloud Security]
+[Azure Resource Center](https://azure.microsoft.com/en-us/resources)
 # [Facebook Groups]
 
 [Cisco Cyber Ops Study Group](https://www.facebook.com/groups/414895922232717)
@@ -109,7 +112,9 @@ Only CCNA Cyber Ops certified members will be accepted into this group
 [Kali Linux Revealed](https://kali.training/downloads/Kali_Revealed_1st_edition.pdf)
 
 # [Python]
+[Mihai](https://www.youtube.com/channel/UCbDfr-jYHTHiXJWtC_W_i4A/playlists)
 # [Powershell]
+[Powershell Module Browser](https://docs.microsoft.com/en-us/powershell/module)
 # [Git]
 [Learn Git](https://www.codecademy.com/learn/learn-git)
 # [Current Certification Focus]
