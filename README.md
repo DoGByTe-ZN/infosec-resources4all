@@ -105,6 +105,11 @@ Its worth checking the Humble Bundle website for never to be missed Cybersecurit
 [Microsoft Azure - Resources](https://azure.microsoft.com/en-us/resources)
 
 [Microsoft Azure - Training](https://azure.microsoft.com/en-us/training/)
+
+[AWS Documentation](https://aws.amazon.com/documentation/)
+
+[AWS Whitepapers](https://aws.amazon.com/whitepapers/)
+
 # [Facebook Groups]
 
 [Cisco Cyber Ops Study Group](https://www.facebook.com/groups/414895922232717)
