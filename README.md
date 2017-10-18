@@ -9,20 +9,22 @@
 
 1. [YouTube Channels](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#youtube-channels)
 2. [Super Stars](https://github.com/DoGByTe-ZN/infosec-resources4all#super-stars)
-3. [Books](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#books)
-4. [Incident Response & Forensics](https://github.com/DoGByTe-ZN/infosec-resources4all#incident-response--forensics)
-5. [CTFs](https://github.com/DoGByTe-ZN/infosec-resources4all#ctfs)
-6. [Cloud Security](https://github.com/DoGByTe-ZN/infosec-resources4all#cloud-security)
-7. [Facebook Groups](https://github.com/DoGByTe-ZN/infosec-resources4all#facebook-groups)
-8. [Threat Intelligence](https://github.com/DoGByTe-ZN/infosec-resources4all#threat-intelligence)
-9. [CSIRTs](https://github.com/DoGByTe-ZN/infosec-resources4all#csirts)
-10. [Linux](https://github.com/DoGByTe-ZN/infosec-resources4all#linux)
-11. [Python](https://github.com/DoGByTe-ZN/infosec-resources4all#python)
-12. [Powershell](https://github.com/DoGByTe-ZN/infosec-resources4all#powershell)
-13. [Git](https://github.com/DoGByTe-ZN/infosec-resources4all#git)
-14. [Current Certification Focus](https://github.com/DoGByTe-ZN/infosec-resources4all#current-certification-focus)
-15. [HUGE Collection](https://github.com/DoGByTe-ZN/infosec-resources4all#huge-collection)
-16. [Paid Subscription](https://github.com/DoGByTe-ZN/infosec-resources4all#paid-subscription)
+4. [InfoSec Conferences]
+5. [Books](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#books)
+6. [Incident Response & Forensics](https://github.com/DoGByTe-ZN/infosec-resources4all#incident-response--forensics)
+7. [CTFs](https://github.com/DoGByTe-ZN/infosec-resources4all#ctfs)
+8. [Cloud Security](https://github.com/DoGByTe-ZN/infosec-resources4all#cloud-security)
+9. [Facebook Groups](https://github.com/DoGByTe-ZN/infosec-resources4all#facebook-groups)
+10. [Threat Intelligence](https://github.com/DoGByTe-ZN/infosec-resources4all#threat-intelligence)
+11. [CSIRTs](https://github.com/DoGByTe-ZN/infosec-resources4all#csirts)
+12. [Regular Expressions]
+13. [Linux](https://github.com/DoGByTe-ZN/infosec-resources4all#linux)
+14. [Python](https://github.com/DoGByTe-ZN/infosec-resources4all#python)
+15. [Powershell](https://github.com/DoGByTe-ZN/infosec-resources4all#powershell)
+16. [Git](https://github.com/DoGByTe-ZN/infosec-resources4all#git)
+17. [Current Certification Focus](https://github.com/DoGByTe-ZN/infosec-resources4all#current-certification-focus)
+18. [HUGE Collection](https://github.com/DoGByTe-ZN/infosec-resources4all#huge-collection)
+19. [Paid Subscription](https://github.com/DoGByTe-ZN/infosec-resources4all#paid-subscription)
 
 # [YouTube Channels]
 [Adrian Crenshaw](https://www.youtube.com/user/irongeek/playlists)
@@ -49,6 +51,8 @@ Adrian Irongeek Crenshaw records most InfoSec conferences in and around the USA.
 
 [NetSecNow](https://www.youtube.com/user/NetSecNow/videos)
 
+[Pearson Certifications](https://www.youtube.com/channel/UCgt7wm6f0FR_Oq2ASC3iXYQ/playlists)
+
 
 # [Super Stars]
 
@@ -64,6 +68,16 @@ Adrian Irongeek Crenshaw records most InfoSec conferences in and around the USA.
 
 [Tyler L. Jones](http://isec.io)
 
+# [InfoSec Conferences]
+
+[Black Hat USA](https://www.blackhat.com/us-17/)
+
+[DEFCON](https://www.defcon.org/)
+
+[Security BSides](http://www.securitybsides.com/w/page/12194156/FrontPage)
+
+[Hacker Halted](https://www.hackerhalted.com/)
+
 # [Books]
 
 [Defensive Security Handbook](https://www.amazon.com/Defensive-Security-Handbook-Practices-Infrastructure/dp/1491960388)
@@ -71,6 +85,10 @@ Adrian Irongeek Crenshaw records most InfoSec conferences in and around the USA.
 [CCNA Cyber Ops SECFND 210-250 Official Cert Guide](https://www.amazon.com/Cyber-SECFND-210-250-Official-Certification/dp/1587147025)
 
 [CCNA Cyber Ops SECOPS 210-255 Official Cert Guide](https://www.amazon.com/Cyber-SECOPS-210-255-Official-Certification/dp/1587147033)
+
+[Humble Book Bundle](https://www.humblebundle.com/books/win-at-work-books)
+
+Its worth checking the Humble Bundle website for never to be missed Cybersecurity book bundle bargains
 
 # [Incident Response & Forensics]
 
@@ -83,7 +101,9 @@ Adrian Irongeek Crenshaw records most InfoSec conferences in and around the USA.
 
 [Wargames](http://overthewire.org/wargames)
 # [Cloud Security]
-[Azure Resource Center](https://azure.microsoft.com/en-us/resources)
+[Microsoft Azure - Resources](https://azure.microsoft.com/en-us/resources)
+
+[Microsoft Azure - Training](https://azure.microsoft.com/en-us/training/)
 # [Facebook Groups]
 
 [Cisco Cyber Ops Study Group](https://www.facebook.com/groups/414895922232717)
@@ -95,13 +115,48 @@ Adrian Irongeek Crenshaw records most InfoSec conferences in and around the USA.
 Only CCNA Cyber Ops certified members will be accepted into this group
 
 # [Threat Intelligence]
+[Cisco Security](http://blogs.cisco.com/security/)
+
 [Talos Intelligence](https://www.talosintelligence.com)
 
 [Brian Krebs](https://krebsonsecurity.com/)
 
 [Binary Defense](http://blog.binarydefense.com/all)
+
+[Malware Traffic Analysis](http://malware-traffic-analysis.net/)
+
+[Malware Don't Need Coffee](http://malware.dontneedcoffee.com/)
+
+[My Online Security](https://myonlinesecurity.co.uk/)
+
+[Dynamoo's Blog](http://blog.dynamoo.com/)
+
+[Sanesecurity](http://sanesecurity.blogspot.co.za/)
+
+[0x3a](https://blog.0x3a.com/)
+
+[TREND Micro](http://blog.trendmicro.com/trendlabs-security-intelligence/)
+
+[Virustotal](https://www.virustotal.com/en/community/#latest-comments)
+
+[Didier Stevens](https://blog.didierstevens.com/)
+
+[SecuriTeam](http://www.securiteam.com/)
+
+[Internet Storm Center](https://isc.sans.edu/)
+
+[Darknet](https://www.darknet.org.uk/)
+
+[News Now](http://www.newsnow.co.uk/h/Technology/Security)
+
 # [CSIRTs]
 [State Security Agency, Republic of South Africa](http://www.ssa.gov.za/CSIRT.aspx)
+
+# [Regular Expressions]
+[Regexone](https://regexone.com/)
+
+[Regex Crossword](https://regexcrossword.com/)
+
 # [Linux]
 [Linux Survival](http://linuxsurvival.com/linux-tutorial-introduction)
 
@@ -119,8 +174,6 @@ Only CCNA Cyber Ops certified members will be accepted into this group
 [Learn Git](https://www.codecademy.com/learn/learn-git)
 # [Current Certification Focus]
 
-[Cisco CCNA Cyber Ops](https://learningnetwork.cisco.com/community/certifications/ccna-cyber-ops)
-
 [CompTIA Cybersecurity Analyst (CSA+)](https://certification.comptia.org/certifications/cybersecurity-analyst)
 
 [Certified Ethical Hacker (CEHv9)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh)
@@ -134,6 +187,9 @@ Only CCNA Cyber Ops certified members will be accepted into this group
 [Microsoft eBooks](https://blogs.msdn.microsoft.com/mssmallbiz/2016/07/10/free-thats-right-im-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-office-365-office-2016-power-bi-azure-windows-8-1-office-2013-sharepoint-2016-sha)
 
 [Microsoft Virtual Academy](https://mva.microsoft.com)
+
+[Woz-U](https://woz-u.com/)
+
 # [Paid Subscription]
 
 [Cisco Networking Academy](https://www.netacad.com)
