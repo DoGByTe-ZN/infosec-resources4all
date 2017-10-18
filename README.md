@@ -9,7 +9,7 @@
 
 1. [YouTube Channels](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#youtube-channels)
 2. [Super Stars](https://github.com/DoGByTe-ZN/infosec-resources4all#super-stars)
-4. [InfoSec Conferences]
+4. [InfoSec Conferences](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#infosec-conferences)
 5. [Books](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#books)
 6. [Incident Response & Forensics](https://github.com/DoGByTe-ZN/infosec-resources4all#incident-response--forensics)
 7. [CTFs](https://github.com/DoGByTe-ZN/infosec-resources4all#ctfs)
@@ -17,7 +17,7 @@
 9. [Facebook Groups](https://github.com/DoGByTe-ZN/infosec-resources4all#facebook-groups)
 10. [Threat Intelligence](https://github.com/DoGByTe-ZN/infosec-resources4all#threat-intelligence)
 11. [CSIRTs](https://github.com/DoGByTe-ZN/infosec-resources4all#csirts)
-12. [Regular Expressions]
+12. [Regular Expressions](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#regular-expressions)
 13. [Linux](https://github.com/DoGByTe-ZN/infosec-resources4all#linux)
 14. [Python](https://github.com/DoGByTe-ZN/infosec-resources4all#python)
 15. [Powershell](https://github.com/DoGByTe-ZN/infosec-resources4all#powershell)
