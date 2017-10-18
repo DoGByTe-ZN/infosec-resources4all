@@ -87,7 +87,7 @@ Adrian Irongeek Crenshaw records most InfoSec conferences in and around the USA.
 
 [CCNA Cyber Ops SECOPS 210-255 Official Cert Guide](https://www.amazon.com/Cyber-SECOPS-210-255-Official-Certification/dp/1587147033)
 
-[Humble Book Bundle](https://www.humblebundle.com/books/win-at-work-books)
+[Humble Bundle - Books](https://www.humblebundle.com/books/win-at-work-books)
 
 Its worth checking the Humble Bundle website for never to be missed Cybersecurity book bundle bargains
 
