@@ -23,9 +23,9 @@
 14. [Python](https://github.com/DoGByTe-ZN/infosec-resources4all#python)
 15. [Powershell](https://github.com/DoGByTe-ZN/infosec-resources4all#powershell)
 16. [Git](https://github.com/DoGByTe-ZN/infosec-resources4all#git)
-17. [Current Certification Focus](https://github.com/DoGByTe-ZN/infosec-resources4all#current-certification-focus)
+17. [Certification Study Resources](https://github.com/DoGByTe-ZN/infosec-resources4all#certification-study-resources)
 18. [HUGE Collection](https://github.com/DoGByTe-ZN/infosec-resources4all#huge-collection)
-19. [Paid Subscription](https://github.com/DoGByTe-ZN/infosec-resources4all#paid-subscription)
+19. [Other](https://github.com/DoGByTe-ZN/infosec-resources4all#other)
 
 # [YouTube Channels]
 [Adrian Crenshaw](https://www.youtube.com/user/irongeek/playlists)
@@ -69,6 +69,8 @@ Adrian Irongeek Crenshaw records most InfoSec conferences in and around the USA.
 
 [Tyler L. Jones](http://isec.io)
 
+[Troy Hunt](https://www.troyhunt.com)
+
 # [InfoSec Conferences]
 
 [Black Hat USA](https://www.blackhat.com/us-17/)
@@ -98,9 +100,15 @@ Its worth checking the Humble Bundle website for never to be missed Cybersecurit
 [SANS Digital Forensics and Incident Response](https://www.youtube.com/user/robtlee73/playlists)
 
 # [CTFs]
+
+[SANS Holiday Hack Challenges](https://holidayhackchallenge.com/past-challenges)
+
 [Hack The Box](https://www.hackthebox.eu/en)
 
-[Wargames](http://overthewire.org/wargames)
+[OverTheWire](http://overthewire.org/wargames)
+
+[UnderTheWire](http://www.underthewire.tech/wargames.htm)
+
 # [Cloud Security]
 [Microsoft Azure - Resources](https://azure.microsoft.com/en-us/resources)
 
@@ -179,6 +187,8 @@ Only CCNA Cyber Ops certified members will be accepted into this group
 
 [Regex Crossword](https://regexcrossword.com/)
 
+[Regex101](https://regex101.com)
+
 # [Linux]
 [Linux Survival](http://linuxsurvival.com/linux-tutorial-introduction)
 
@@ -194,7 +204,10 @@ Only CCNA Cyber Ops certified members will be accepted into this group
 [Powershell Module Browser](https://docs.microsoft.com/en-us/powershell/module)
 # [Git]
 [Learn Git](https://www.codecademy.com/learn/learn-git)
-# [Current Certification Focus]
+
+[Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science?utm_medium=fb%2Can%2Cig%2Cms-all&utm_source=fb_paid&utm_campaign=smartly_ppa&utm_id=5a271f44a5ec6c49890b6239)
+
+# [Certification Study Resources]
 
 [CompTIA Cybersecurity Analyst (CSA+)](https://certification.comptia.org/certifications/cybersecurity-analyst)
 
@@ -212,19 +225,9 @@ Only CCNA Cyber Ops certified members will be accepted into this group
 
 [Woz-U](https://woz-u.com/)
 
-# [Paid Subscription]
+# [Other]
 
-[Cisco Networking Academy](https://www.netacad.com)
-
-[Pluralsight](https://www.pluralsight.com)
-
-[Safaribooksonline](https://www.safaribooksonline.com)
-
-[Linux Academy](https://linuxacademy.com)
-
-[Lynda.com](https://www.lynda.com)
-
-[CBT Nuggets](https://www.cbtnuggets.com)
+[ICS-CERT Virtual Learning Portal](https://ics-cert-training.inl.gov/lms)
 
 
 
