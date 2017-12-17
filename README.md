@@ -16,16 +16,15 @@
 7. [Cloud Security](https://github.com/DoGByTe-ZN/infosec-resources4all#cloud-security)
 8. [Facebook Groups](https://github.com/DoGByTe-ZN/infosec-resources4all#facebook-groups)
 9. [Threat Intelligence](https://github.com/DoGByTe-ZN/infosec-resources4all#threat-intelligence)
-10. [Live Cyber Threat Map](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#live-cyber-threat-map)
-11. [CSIRTs](https://github.com/DoGByTe-ZN/infosec-resources4all#csirts)
-12. [Regular Expressions](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#regular-expressions)
-13. [Linux](https://github.com/DoGByTe-ZN/infosec-resources4all#linux)
-14. [Python](https://github.com/DoGByTe-ZN/infosec-resources4all#python)
-15. [Powershell](https://github.com/DoGByTe-ZN/infosec-resources4all#powershell)
-16. [Git](https://github.com/DoGByTe-ZN/infosec-resources4all#git)
-17. [Certification Study Resources](https://github.com/DoGByTe-ZN/infosec-resources4all#certification-study-resources)
-18. [HUGE Collection](https://github.com/DoGByTe-ZN/infosec-resources4all#huge-collection)
-19. [Other](https://github.com/DoGByTe-ZN/infosec-resources4all#other)
+10. [CSIRTs](https://github.com/DoGByTe-ZN/infosec-resources4all#csirts)
+11. [Regular Expressions](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#regular-expressions)
+12. [Linux](https://github.com/DoGByTe-ZN/infosec-resources4all#linux)
+13. [Python](https://github.com/DoGByTe-ZN/infosec-resources4all#python)
+14. [Powershell](https://github.com/DoGByTe-ZN/infosec-resources4all#powershell)
+15. [Git](https://github.com/DoGByTe-ZN/infosec-resources4all#git)
+16. [Certification Study Resources](https://github.com/DoGByTe-ZN/infosec-resources4all#certification-study-resources)
+17. [HUGE Collection](https://github.com/DoGByTe-ZN/infosec-resources4all#huge-collection)
+18. [Other](https://github.com/DoGByTe-ZN/infosec-resources4all#other)
 
 # [YouTube Channels]
 [Adrian Crenshaw](https://www.youtube.com/user/irongeek/playlists)
@@ -163,20 +162,6 @@ Only CCNA Cyber Ops certified members will be accepted into this group
 
 [News Now](http://www.newsnow.co.uk/h/Technology/Security)
 
-# [Live Cyber Threat Map]
-
-[Norse Attack Map](http://map.norsecorp.com/#/)
-
-[Norse-IPViking Live](http://hp.ipviking.com/)
-
-[Check Point Live Cyber Attack Threat Map](https://threatmap.checkpoint.com/ThreatPortal/livemap.html)
-
-[FireEye Cyber Threat Map](https://www.fireeye.com/cyber-map/threat-map.html)
-
-[Fortinet Threat Map](http://threatmap.fortiguard.com/)
-
-[Digital Attack Map](http://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=17142&view=map)
-
 # [CSIRTs]
 [State Security Agency, Republic of South Africa](http://www.ssa.gov.za/CSIRT.aspx)
 
@@ -194,9 +179,13 @@ Only CCNA Cyber Ops certified members will be accepted into this group
 
 [Sonet Institute of Technology](https://www.youtube.com/channel/UCBWHM2PThuid9gw69nasf1w/videos)
 
+[NDG Linux Essentials](https://www.netacad.com/courses/ndg-linux-essentials)
+
 [NDG Linux Unhatched](https://www.netacad.com/courses/ndg-linux-unhatched)
 
 [Kali Linux Revealed](https://kali.training/downloads/Kali_Revealed_1st_edition.pdf)
+
+[Linux From Scratch](http://www.linuxfromscratch.org)
 
 # [Python]
 [Mihai](https://www.youtube.com/channel/UCbDfr-jYHTHiXJWtC_W_i4A/playlists)
@@ -212,6 +201,38 @@ Only CCNA Cyber Ops certified members will be accepted into this group
 [CompTIA Cybersecurity Analyst (CSA+)](https://certification.comptia.org/certifications/cybersecurity-analyst)
 
 [Certified Ethical Hacker (CEHv9)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh)
+
+-[CEH Assessment](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/ceh-assessment)
+
+[CISSP](https://www.isc2.org/Certifications/CISSP)
+
+-[Luke Ahmed's CISSP Exam Preparation Facebook Group](https://www.facebook.com/groups/1525346961013038/members)
+
+-[Cybrary.it ISC2 CISSP Free Training](https://www.cybrary.it/course/cissp)
+
+-[CISSP Summary PDF](https://media.wix.com/ugd/dc6afa_fc8dba86e57a4f3cb9aaf66aff6f9d22.pdf)
+
+-[CISSP Practice Exams](https://www.mhprofessionalresources.com/sites/CISSPExams/exam.php?id=AccessControl)
+
+-[IT Dojo](https://www.youtube.com/channel/UCwUkAunxT1BNbmKVOSEoqYA)
+
+-[Study Notes and Theory](https://www.studynotesandtheory.com)
+
+-[CISSP Flashcards](https://www.brainscape.com/subjects/cissp)
+
+-[Quizlet](https://quizlet.com/2519918/cissp-practice-flash-cards)
+
+[CyberSec First Responder](http://logicaloperations.com/certifications/1/CyberSec-First-Responder)
+
+[ISTQB](https://www.istqb.org)
+
+[Splunk](https://www.splunk.com/en_us/view/education/SP-CAAAAH9)
+
+[Accredited Configuration Engineer](https://www.paloaltonetworks.com/services/education/ace-faq)
+
+-[FUEL User Group](https://fuelusergroup.org)
+
+
 
 # [HUGE Collection]
 
@@ -229,5 +250,10 @@ Only CCNA Cyber Ops certified members will be accepted into this group
 
 [ICS-CERT Virtual Learning Portal](https://ics-cert-training.inl.gov/lms)
 
+[Intro To InfoSec Game](http://www.pbs.org/wgbh/nova/labs/lab/cyber/research#/newuser)
+
+[Locally Hosted Classes](http://opensecuritytraining.info/Training.html)
+
+[External Resources](http://opensecuritytraining.info/External_Resources.html)
 
 
