@@ -48,7 +48,7 @@ Name  |  Description
 ----  |  ----
 [Adrian Crenshaw](https://www.youtube.com/user/irongeek/playlists) | Adrian Irongeek Crenshaw records most InfoSec conferences in and around the USA.
 [Joseph Delgadillo](https://www.youtube.com/channel/UCqR4a4lUDbDkAFQnhw4pfXQ/playlists)
-[Black Hat](https://www.youtube.com/user/BlackHatOfficialYT/playlists)
+[Black Hat](https://www.blackhat.com/)
 [Cisco](https://www.youtube.com/user/Cisco/playlists)
 [Computerphile](https://www.youtube.com/user/Computerphile/videos)
 [DEFCON Conference](https://www.youtube.com/user/DEFCONConference/playlists)
