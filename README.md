@@ -182,7 +182,7 @@ Name  |  Resource
 [CyberSec First Responder](http://logicaloperations.com/certifications/1/CyberSec-First-Responder)
 [ISTQB](https://www.istqb.org)
 [Splunk](https://www.splunk.com/en_us/view/education/SP-CAAAAH9)
-[Accredited Configuration Engineer](https://www.paloaltonetworks.com/services/education/ace-faq) | [FUEL User Group](https://fuelusergroup.org)
+[Palo Alto - Accredited Configuration Engineer](https://www.paloaltonetworks.com/services/education/ace-faq) | [FUEL User Group](https://fuelusergroup.org)
 
 ### [HUGE Collection](https://github.com/DoGByTe-ZN/infosec-resources4all#huge-collection)
 Name  |  Description
