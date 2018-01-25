@@ -7,8 +7,8 @@
 
 ## Table of Contents
 
-* [Getting Started]
-* [Games]
+* [Getting Started](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#getting-started)
+* [Games](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#games)
 * [YouTube Channels](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#youtube-channels)
 * [Super Stars](https://github.com/DoGByTe-ZN/infosec-resources4all#super-stars)
 * [InfoSec Conferences](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#infosec-conferences)
