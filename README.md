@@ -7,6 +7,8 @@
 
 ## Table of Contents
 
+* [Getting Started]
+* [Games]
 * [YouTube Channels](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#youtube-channels)
 * [Super Stars](https://github.com/DoGByTe-ZN/infosec-resources4all#super-stars)
 * [InfoSec Conferences](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#infosec-conferences)
@@ -26,6 +28,22 @@
 * [HUGE Collection](https://github.com/DoGByTe-ZN/infosec-resources4all#huge-collection)
 * [Other](https://github.com/DoGByTe-ZN/infosec-resources4all#other)
 
+### [Getting Started]
+Name  |  Description
+----  |  ----
+[Professor Messer](https://www.youtube.com/user/professormesser/videos)
+[Creating a Security-centric Culture](https://www.pluralsight.com/courses/security-culture-creating?aid=7010a000001xDK3AAM&promo=&oid=7010a000001xDJyAAM)
+[Hacker101](https://www.hacker101.com/)
+
+### [Games]
+Name  |  Description
+----  |  ----
+[Binary Game](https://learningnetwork.cisco.com/docs/DOC-1803)
+[OSI Networking Game](http://www.gocertify.com/games/osi-game.html)
+[HACKSPLAINING](https://www.hacksplaining.com/lessons)
+[Novalabs - Cyber](http://www.pbs.org/wgbh/nova/labs/lab/cyber/research#/newuser)
+[Security Awareness Game](https://www.isdecisions.com/user-security-awareness-game/)
+
 ### [YouTube Channels](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#youtube-channels)
 Name  |  Description
 ----  |  ----
@@ -40,7 +58,6 @@ Name  |  Description
 [Security Weekly](https://www.youtube.com/user/SecurityWeeklyTV/playlists)
 [Security Onion](https://www.youtube.com/channel/UCNBFTyYCdjT5hnm7uW25vGQ/playlists)
 [NetSecNow](https://www.youtube.com/user/NetSecNow/videos)
-[Pearson Certifications](https://www.youtube.com/channel/UCgt7wm6f0FR_Oq2ASC3iXYQ/playlists)
 
 ### [Super Stars](https://github.com/DoGByTe-ZN/infosec-resources4all#super-stars)
 Name  |  Description
@@ -60,6 +77,7 @@ Name  |  Description
 [DEFCON](https://www.defcon.org/)
 [Security BSides](http://www.securitybsides.com/w/page/12194156/FrontPage)
 [Hacker Halted](https://www.hackerhalted.com/)
+[SchmooCon](http://shmoocon.org/)
 
 ### [Books](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#books)
 Name  |  Description
@@ -179,7 +197,6 @@ Name  |  Description
 Name  |  Description
 ----  |  ----
 [ICS-CERT Virtual Learning Portal](https://ics-cert-training.inl.gov/lms)
-[Intro To InfoSec Game](http://www.pbs.org/wgbh/nova/labs/lab/cyber/research#/newuser)
 [Locally Hosted Classes](http://opensecuritytraining.info/Training.html)
 [External Resources](http://opensecuritytraining.info/External_Resources.html)
 
