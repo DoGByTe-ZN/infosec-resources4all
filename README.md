@@ -16,7 +16,6 @@
 * [Incident Response & Forensics](https://github.com/DoGByTe-ZN/infosec-resources4all#incident-response--forensics)
 * [CTFs](https://github.com/DoGByTe-ZN/infosec-resources4all#ctfs)
 * [Cloud Security](https://github.com/DoGByTe-ZN/infosec-resources4all#cloud-security)
-* [Facebook Groups](https://github.com/DoGByTe-ZN/infosec-resources4all#facebook-groups)
 * [Threat Intelligence](https://github.com/DoGByTe-ZN/infosec-resources4all#threat-intelligence)
 * [CSIRTs](https://github.com/DoGByTe-ZN/infosec-resources4all#csirts)
 * [Regular Expressions](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#regular-expressions)
@@ -109,12 +108,6 @@ Name  |  Description
 [AWS Documentation](https://aws.amazon.com/documentation/)
 [AWS Whitepapers](https://aws.amazon.com/whitepapers/)
 
-### [Facebook Groups](https://github.com/DoGByTe-ZN/infosec-resources4all#facebook-groups)
-Name  |  Description
-----  |  ----
-[Cisco Cyber Ops Study Group](https://www.facebook.com/groups/414895922232717) | 10k+ Group Members
-[CCNP Cyber Ops Study Group](https://www.facebook.com/groups/308820696237822) | Only CCNA Cyber Ops certified members will be accepted into this group
-
 ### [Threat Intelligence](https://github.com/DoGByTe-ZN/infosec-resources4all#threat-intelligence)
 Name  |  Description
 ----  |  ----
@@ -177,6 +170,7 @@ Name  |  Description
 Name  |  Resource
 ----  |  ----
 [CompTIA Cybersecurity Analyst (CySA+)](https://certification.comptia.org/certifications/cybersecurity-analyst)
+[Cisco CCNA Cyber Ops](https://learningnetwork.cisco.com/community/certifications/ccna-cyber-ops) | [Cisco Cyber Ops Study Group](https://www.facebook.com/groups/414895922232717) , [CCNP Cyber Ops Study Group](https://www.facebook.com/groups/308820696237822)
 [Certified Ethical Hacker (CEHv9)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh) | [CEH Assessment](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/ceh-assessment)
 [CISSP](https://www.isc2.org/Certifications/CISSP) | [Luke Ahmed's CISSP Exam Preparation Facebook Group](https://www.facebook.com/groups/1525346961013038/members) , [Cybrary.it ISC2 CISSP Free Training](https://www.cybrary.it/course/cissp) , [CISSP Summary PDF](https://media.wix.com/ugd/dc6afa_fc8dba86e57a4f3cb9aaf66aff6f9d22.pdf) , [CISSP Practice Exams](https://www.mhprofessionalresources.com/sites/CISSPExams/exam.php?id=AccessControl) , [IT Dojo](https://www.youtube.com/channel/UCwUkAunxT1BNbmKVOSEoqYA) , [Study Notes and Theory](https://www.studynotesandtheory.com) , [CISSP Flashcards](https://www.brainscape.com/subjects/cissp) , [Quizlet](https://quizlet.com/2519918/cissp-practice-flash-cards)
 [CyberSec First Responder](http://logicaloperations.com/certifications/1/CyberSec-First-Responder)
