@@ -195,5 +195,5 @@ Name  |  Description
 [ICS-CERT Virtual Learning Portal](https://ics-cert-training.inl.gov/lms)
 [Locally Hosted Classes](http://opensecuritytraining.info/Training.html)
 [External Resources](http://opensecuritytraining.info/External_Resources.html)
-
+[KCSEC](https://www.ivoidwarranties.tech/)
 
