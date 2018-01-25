@@ -72,7 +72,7 @@ Name  |  Description
 ### [InfoSec Conferences](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#infosec-conferences)
 Name  |  Description
 ----  |  ----
-[Black Hat USA](https://www.blackhat.com)
+[Black Hat](https://www.blackhat.com)
 [DEFCON](https://www.defcon.org/)
 [Security BSides](http://www.securitybsides.com/w/page/12194156/FrontPage)
 [Hacker Halted](https://www.hackerhalted.com/)
