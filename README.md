@@ -8,7 +8,7 @@
 ## Table of Contents
 
 * [Getting Started](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#getting-started)
-* [Games](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#games)
+* [Games/Interactive Activities](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#games)
 * [YouTube Channels](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#youtube-channels)
 * [Super Stars](https://github.com/DoGByTe-ZN/infosec-resources4all#super-stars)
 * [InfoSec Conferences](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#infosec-conferences)
@@ -27,14 +27,14 @@
 * [HUGE Collection](https://github.com/DoGByTe-ZN/infosec-resources4all#huge-collection)
 * [Other](https://github.com/DoGByTe-ZN/infosec-resources4all#other)
 
-### [Getting Started]
+### [Getting Started](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#getting-started)
 Name  |  Description
 ----  |  ----
 [Professor Messer](https://www.youtube.com/user/professormesser/playlists?sort=dd&view=1&shelf_id=0) | Professor Messer only posts the latest CompTIA A+, N+ and S+ Youtube study videos, along with the live corresponding A+,N+, and S+ monthly study groups
 [Creating a Security-centric Culture](https://www.pluralsight.com/courses/security-culture-creating?aid=7010a000001xDK3AAM&promo=&oid=7010a000001xDJyAAM) | FREE Pluralsight course hosted by Troy Hunt
 [Hacker101](https://www.hacker101.com/) | Hacker101 is a free class for web security. Whether you're a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you
 
-### [Games]
+### [Games/Interactive Activities](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#games)
 Name  |  Description
 ----  |  ----
 [Binary Game](https://learningnetwork.cisco.com/docs/DOC-1803)
