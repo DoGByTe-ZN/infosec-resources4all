@@ -149,7 +149,7 @@ Name  |  Description
 [NDG Linux Essentials](https://www.netacad.com/courses/ndg-linux-essentials)
 [NDG Linux Unhatched](https://www.netacad.com/courses/ndg-linux-unhatched)
 [Sonet Institute of Technology](https://www.youtube.com/channel/UCBWHM2PThuid9gw69nasf1w/videos)
-[Kali Linux Revealed](https://kali.training/downloads/Kali_Revealed_1st_edition.pdf)
+[Kali Linux Revealed.pdf](https://kali.training/downloads/Kali_Revealed_1st_edition.pdf)
 [Linux From Scratch](http://www.linuxfromscratch.org)
 
 ### [Python](https://github.com/DoGByTe-ZN/infosec-resources4all#python)
