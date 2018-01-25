@@ -30,9 +30,9 @@
 ### [Getting Started]
 Name  |  Description
 ----  |  ----
-[Professor Messer](https://www.youtube.com/user/professormesser/playlists?sort=dd&view=1&shelf_id=0) | Professor Messer only posts the latest CompTIA A+, N+ and S+ Youtube study videos, along with the corresponding live A+,N+, and S+ Study Groups
-[Creating a Security-centric Culture](https://www.pluralsight.com/courses/security-culture-creating?aid=7010a000001xDK3AAM&promo=&oid=7010a000001xDJyAAM)
-[Hacker101](https://www.hacker101.com/)
+[Professor Messer](https://www.youtube.com/user/professormesser/playlists?sort=dd&view=1&shelf_id=0) | Professor Messer only posts the latest CompTIA A+, N+ and S+ Youtube study videos, along with the corresponding live A+,N+, and S+ monthly study groups
+[Creating a Security-centric Culture](https://www.pluralsight.com/courses/security-culture-creating?aid=7010a000001xDK3AAM&promo=&oid=7010a000001xDJyAAM) | FREE Pluralsight course hosted by Troy Hunt
+[Hacker101](https://www.hacker101.com/) | Hacker101 is a free class for web security. Whether you're a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you
 
 ### [Games]
 Name  |  Description
