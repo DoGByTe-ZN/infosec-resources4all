@@ -30,7 +30,7 @@
 ### [Getting Started]
 Name  |  Description
 ----  |  ----
-[Professor Messer](https://www.youtube.com/user/professormesser/playlists?sort=dd&view=1&shelf_id=0) | Professor Messer only posts the latest CompTIA A+, N+ and S+ Youtube study videos, along with the live A+,N+, and S+ Study Groups
+[Professor Messer](https://www.youtube.com/user/professormesser/playlists?sort=dd&view=1&shelf_id=0) | Professor Messer only posts the latest CompTIA A+, N+ and S+ Youtube study videos, along with the corresponding live A+,N+, and S+ Study Groups
 [Creating a Security-centric Culture](https://www.pluralsight.com/courses/security-culture-creating?aid=7010a000001xDK3AAM&promo=&oid=7010a000001xDJyAAM)
 [Hacker101](https://www.hacker101.com/)
 
