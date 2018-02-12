@@ -117,7 +117,7 @@ Name  |  Description
 ----  |  ----
 [ECS-CSIRT](http://www.ssa.gov.za/CSIRT.aspx)
 [US-CERT](https://www.us-cert.gov/)
-[Aus-CERT](https://www.auscert.org.au/about/)
+[AUS-CERT](https://www.auscert.org.au/about/)
 [ICS-CERT](https://ics-cert.us-cert.gov/)
 
 ### [Regular Expressions](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#regular-expressions)
