@@ -16,7 +16,6 @@
 * [Incident Response & Forensics](https://github.com/DoGByTe-ZN/infosec-resources4all#incident-response--forensics)
 * [CTFs](https://github.com/DoGByTe-ZN/infosec-resources4all#ctfs)
 * [Cloud Security](https://github.com/DoGByTe-ZN/infosec-resources4all#cloud-security)
-* [Threat Intelligence](https://github.com/DoGByTe-ZN/infosec-resources4all#threat-intelligence)
 * [CSIRTs](https://github.com/DoGByTe-ZN/infosec-resources4all#csirts)
 * [Regular Expressions](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#regular-expressions)
 * [Linux](https://github.com/DoGByTe-ZN/infosec-resources4all#linux)
@@ -32,7 +31,9 @@ Name  |  Description
 ----  |  ----
 [Professor Messer](https://www.youtube.com/user/professormesser/playlists?sort=dd&view=1&shelf_id=0) | Professor Messer only posts the latest CompTIA A+, N+ and S+ Youtube study videos, along with the live corresponding A+,N+, and S+ monthly study groups
 [Creating a Security-centric Culture](https://www.pluralsight.com/courses/security-culture-creating?aid=7010a000001xDK3AAM&promo=&oid=7010a000001xDJyAAM) | FREE Pluralsight course hosted by Troy Hunt
+[SANS Cyber Aces](http://www.cyberaces.org/courses/)
 [Hacker101](https://www.hacker101.com/) | Hacker101 is a free class for web security. Whether you're a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you
+[NSA Day Of Cyber](https://www.nsadayofcyber.com/)
 
 ### [Games/Interactive Activities](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#games)
 Name  |  Description
@@ -57,6 +58,7 @@ Name  |  Description
 [Security Weekly](https://www.youtube.com/user/SecurityWeeklyTV/playlists)
 [Security Onion](https://www.youtube.com/channel/UCNBFTyYCdjT5hnm7uW25vGQ/playlists)
 [NetSecNow](https://www.youtube.com/user/NetSecNow/videos)
+[Forensic Lunch](https://www.youtube.com/channel/UCZ7mQV3j4GNX-LU1IKPVQZg)
 
 ### [Super Stars](https://github.com/DoGByTe-ZN/infosec-resources4all#super-stars)
 Name  |  Description
@@ -91,6 +93,7 @@ Name  |  Description
 ----  |  ----
 [FIRST](https://www.youtube.com/channel/UCK3_z6YyWvfqrOuCmrfxsTw/videos)
 [SANS Digital Forensics and Incident Response](https://www.youtube.com/user/robtlee73/playlists)
+[Free computer forensic tools](https://forensiccontrol.com/resources/free-software/)
 
 ### [CTFs](https://github.com/DoGByTe-ZN/infosec-resources4all#ctfs)
 Name  |  Description
@@ -105,29 +108,9 @@ Name  |  Description
 ----  |  ----
 [Microsoft Azure - Resources](https://azure.microsoft.com/en-us/resources)
 [Microsoft Azure - Training](https://azure.microsoft.com/en-us/training/)
+[Azure Security Center](https://azure.microsoft.com/en-us/services/security-center/)
 [AWS Documentation](https://aws.amazon.com/documentation/)
 [AWS Whitepapers](https://aws.amazon.com/whitepapers/)
-
-### [Threat Intelligence](https://github.com/DoGByTe-ZN/infosec-resources4all#threat-intelligence)
-Name  |  Description
-----  |  ----
-[Cisco Security](http://blogs.cisco.com/security/)
-[Talos Intelligence](https://www.talosintelligence.com)
-[Brian Krebs](https://krebsonsecurity.com/)
-[Binary Defense](http://blog.binarydefense.com/all)
-[Malware Traffic Analysis](http://malware-traffic-analysis.net/)
-[Malware Don't Need Coffee](http://malware.dontneedcoffee.com/)
-[My Online Security](https://myonlinesecurity.co.uk/)
-[Dynamoo's Blog](http://blog.dynamoo.com/)
-[Sanesecurity](http://sanesecurity.blogspot.co.za/)
-[0x3a](https://blog.0x3a.com/)
-[TREND Micro](http://blog.trendmicro.com/trendlabs-security-intelligence/)
-[Virustotal](https://www.virustotal.com/en/community/#latest-comments)
-[Didier Stevens](https://blog.didierstevens.com/)
-[SecuriTeam](http://www.securiteam.com/)
-[Internet Storm Center](https://isc.sans.edu/)
-[Darknet](https://www.darknet.org.uk/)
-[News Now](http://www.newsnow.co.uk/h/Technology/Security)
 
 ### [CSIRTs](https://github.com/DoGByTe-ZN/infosec-resources4all#csirts)
 Name  |  Description
@@ -143,6 +126,7 @@ Name  |  Description
 [Regexone](https://regexone.com/)
 [Regex Crossword](https://regexcrossword.com/)
 [Regex101](https://regex101.com)
+[RexEgg](http://www.rexegg.com/)
 
 ### [Linux](https://github.com/DoGByTe-ZN/infosec-resources4all#linux)
 Name  |  Description
