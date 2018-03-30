@@ -24,7 +24,7 @@
 * [Python](https://github.com/DoGByTe-ZN/infosec-resources4all#python)
 * [Powershell](https://github.com/DoGByTe-ZN/infosec-resources4all#powershell)
 * [Git](https://github.com/DoGByTe-ZN/infosec-resources4all#git)
-* [Fake News Verification Tools](https://github.com/DoGByTe-ZN/infosec-resources4all#fake-news-verification-tools)
+* [Fake News Image Verification Tools](https://github.com/DoGByTe-ZN/infosec-resources4all#fake-news-image-verification-tools)
 * [Certification Study Resources](https://github.com/DoGByTe-ZN/infosec-resources4all#certification-study-resources)
 * [HUGE Collection](https://github.com/DoGByTe-ZN/infosec-resources4all#huge-collection)
 * [Other](https://github.com/DoGByTe-ZN/infosec-resources4all#other)
@@ -177,7 +177,7 @@ Name  |  Description
 [Learn Git](https://www.codecademy.com/learn/learn-git)
 [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science?utm_medium=fb%2Can%2Cig%2Cms-all&utm_source=fb_paid&utm_campaign=smartly_ppa&utm_id=5a271f44a5ec6c49890b6239)
 
-### [Fake News Verification Tools](https://github.com/DoGByTe-ZN/infosec-resources4all#fake-news-verification-tools)
+### [Fake News Image Verification Tools](https://github.com/DoGByTe-ZN/infosec-resources4all#fake-news-image-verification-tools)
 Name  |  Description
 ----  |  ----
 [TinEye](https://www.tineye.com/)
