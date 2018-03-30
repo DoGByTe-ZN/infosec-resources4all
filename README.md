@@ -20,7 +20,7 @@
 * [CSIRTs](https://github.com/DoGByTe-ZN/infosec-resources4all#csirts)
 * [Regular Expressions](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#regular-expressions)
 * [Linux](https://github.com/DoGByTe-ZN/infosec-resources4all#linux)
-* [Network Programmability]( https://github.com/DoGByTe-ZN/infosec-resources4all#network-programmability)
+* [Network Programmability](https://github.com/DoGByTe-ZN/infosec-resources4all#network-programmability)
 * [Python](https://github.com/DoGByTe-ZN/infosec-resources4all#python)
 * [Powershell](https://github.com/DoGByTe-ZN/infosec-resources4all#powershell)
 * [Git](https://github.com/DoGByTe-ZN/infosec-resources4all#git)
