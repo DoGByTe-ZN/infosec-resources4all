@@ -39,6 +39,16 @@ Name  |  Description
 [NSA Day Of Cyber](https://www.nsadayofcyber.com/)
 [OSSEC 2.8.1 Documentation: Log Samples](https://ossec-docs.readthedocs.io/en/latest/log_samples/)
 
+### [Awesome Curations]
+Name  |  Description
+----  |  ----
+[Application Security](https://github.com/paragonie/awesome-appsec)
+[Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
+[Web Security](https://github.com/qazbnm456/awesome-web-security)
+[Lockpicking](https://github.com/meitar/awesome-lockpicking)
+[System Adminstration](https://github.com/kahun/awesome-sysadmin)
+[Vehicle Security & Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security)
+
 ### [Games/Interactive Activities](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#games)
 Name  |  Description
 ----  |  ----
