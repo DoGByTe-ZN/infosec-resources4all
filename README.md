@@ -8,6 +8,7 @@
 ## Table of Contents
 
 * [Getting Started](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#getting-started)
+* [Awesome Curations](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#awesome-curations)
 * [Games/Interactive Activities](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#games)
 * [YouTube Channels](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#youtube-channels)
 * [Super Stars](https://github.com/DoGByTe-ZN/infosec-resources4all#super-stars)
@@ -39,7 +40,7 @@ Name  |  Description
 [NSA Day Of Cyber](https://www.nsadayofcyber.com/)
 [OSSEC 2.8.1 Documentation: Log Samples](https://ossec-docs.readthedocs.io/en/latest/log_samples/)
 
-### [Awesome Curations]
+### [Awesome Curations](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#awesome-curations)
 Name  |  Description
 ----  |  ----
 [Application Security](https://github.com/paragonie/awesome-appsec)
