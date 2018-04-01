@@ -39,6 +39,16 @@ Name  |  Description
 [NSA Day Of Cyber](https://www.nsadayofcyber.com/)
 [OSSEC 2.8.1 Documentation: Log Samples](https://ossec-docs.readthedocs.io/en/latest/log_samples/)
 
+### [Awesome Curations]
+Name  |  Description
+----  |  ----
+[Application Security](https://github.com/paragonie/awesome-appsec)
+[Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
+[Web Security](https://github.com/qazbnm456/awesome-web-security)
+[Lockpicking](https://github.com/meitar/awesome-lockpicking)
+[System Adminstration](https://github.com/kahun/awesome-sysadmin)
+[Vehicle Security & Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security)
+
 ### [Games/Interactive Activities](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#games)
 Name  |  Description
 ----  |  ----
@@ -90,6 +100,7 @@ Name  |  Description
 Name  |  Description
 ----  |  ----
 [Defensive Security Handbook](https://www.amazon.com/Defensive-Security-Handbook-Practices-Infrastructure/dp/1491960388)
+[Stealing The Network](https://drive.google.com/uc?export=download&id=1kfj3yJ75FzozkR-jp_OAm6S5crRn4zDZ) | It is a compilation of fictional hacking tales which will inspire you to think outside of the box.
 [CCNA Cyber Ops SECFND 210-250 Official Cert Guide](https://www.amazon.com/Cyber-SECFND-210-250-Official-Certification/dp/1587147025)
 [CCNA Cyber Ops SECOPS 210-255 Official Cert Guide](https://www.amazon.com/Cyber-SECOPS-210-255-Official-Certification/dp/1587147033)
 [Humble Bundle - Books](https://www.humblebundle.com/books/win-at-work-books) | Its worth checking the Humble Bundle website for never to be missed Cybersecurity book bundle bargains
