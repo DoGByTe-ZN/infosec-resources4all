@@ -8,7 +8,6 @@
 ## Table of Contents
 
 * [Getting Started](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#getting-started)
-* [Awesome Curations](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#awesome-curations)
 * [Games/Interactive Activities](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#games)
 * [YouTube Channels](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#youtube-channels)
 * [Super Stars](https://github.com/DoGByTe-ZN/infosec-resources4all#super-stars)
@@ -28,6 +27,7 @@
 * [Fake News Image Verification Tools](https://github.com/DoGByTe-ZN/infosec-resources4all#fake-news-image-verification-tools)
 * [Certification Study Resources](https://github.com/DoGByTe-ZN/infosec-resources4all#certification-study-resources)
 * [HUGE Collection](https://github.com/DoGByTe-ZN/infosec-resources4all#huge-collection)
+* [Awesome Curations](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#awesome-curations)
 * [Other](https://github.com/DoGByTe-ZN/infosec-resources4all#other)
 
 ### [Getting Started](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#getting-started)
