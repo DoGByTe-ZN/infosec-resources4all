@@ -5,6 +5,8 @@
 
 -The content essentially covers [Blue Team] & [Red Team] information, as it is imperative that one understands both sides of the war zone before engaging the target.
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/DoGByTeZN.svg?style=social&label=Follow%20%40DoGByTeZN)](https://twitter.com/DoGByTeZN)
+
 ## Table of Contents
 
 * [Getting Started](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#getting-started)
