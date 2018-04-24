@@ -9,12 +9,14 @@
 
 ## Table of Contents
 
+* [InfoSec Career Options](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#InfoSec-Career-Options)
 * [Getting Started](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#getting-started)
 * [Games/Interactive Activities](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#games)
 * [YouTube Channels](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#youtube-channels)
 * [Super Stars](https://github.com/DoGByTe-ZN/infosec-resources4all#super-stars)
 * [InfoSec Conferences](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#infosec-conferences)
 * [Books](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#books)
+* [Threat Intelligence](https://github.com/DoGByTe-ZN/infosec-resources4all#Threat-Intelligence)
 * [Incident Response & Forensics](https://github.com/DoGByTe-ZN/infosec-resources4all#incident-response--forensics)
 * [Malware Analysis & Reverse Engineering](https://github.com/DoGByTe-ZN/infosec-resources4all#malware-analysis-&-reverse-engineering)
 * [CTFs](https://github.com/DoGByTe-ZN/infosec-resources4all#ctfs)
@@ -32,6 +34,12 @@
 * [Awesome Curations](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#awesome-curations)
 * [Other](https://github.com/DoGByTe-ZN/infosec-resources4all#other)
 
+### [InfoSec Career Options](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#InfoSec-Career-Options)
+Name  |  Description
+----  |  ----
+[Learn More About A Cyber Security Job](https://www.cyberdegrees.org/jobs/)
+[CyberSeek](http://cyberseek.org/pathway.html)
+
 ### [Getting Started](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#getting-started)
 Name  |  Description
 ----  |  ----
@@ -41,6 +49,7 @@ Name  |  Description
 [Hacker101](https://www.hacker101.com/) | Hacker101 is a free class for web security. Whether you're a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you
 [NSA Day Of Cyber](https://www.nsadayofcyber.com/)
 [OSSEC 2.8.1 Documentation: Log Samples](https://ossec-docs.readthedocs.io/en/latest/log_samples/)
+[How to become the best SOC Analyst E-V-E-R](http://www.hexacorn.com/blog/2018/02/25/how-to-become-the-best-soc-analyst-e-v-e-r/)
 
 ### [Games/Interactive Activities](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#games)
 Name  |  Description
@@ -97,9 +106,17 @@ Name  |  Description
 [CCNA Cyber Ops SECOPS 210-255 Official Cert Guide](https://www.amazon.com/Cyber-SECOPS-210-255-Official-Certification/dp/1587147033)
 [Humble Bundle - Books](https://www.humblebundle.com/books/win-at-work-books) | Its worth checking the Humble Bundle website for never to be missed Cybersecurity book bundle bargains
 
+### [Threat Intelligence](https://github.com/DoGByTe-ZN/infosec-resources4all#Threat-Intelligence)
+Name  |  Description
+----  |  ----
+[AlienVault Open Threat Exchange](https://otx.alienvault.com/)
+[Maltiverse](https://www.maltiverse.com/search)
+[RISKIQ](https://community.riskiq.com/home)
+
 ### [Incident Response & Forensics](https://github.com/DoGByTe-ZN/infosec-resources4all#incident-response--forensics)
 Name  |  Description
 ----  |  ----
+[Introduction to DFIR](https://medium.com/@sroberts/introduction-to-dfir-d35d5de4c180)
 [FIRST](https://www.youtube.com/channel/UCK3_z6YyWvfqrOuCmrfxsTw/videos)
 [SANS Digital Forensics and Incident Response](https://www.youtube.com/user/robtlee73/playlists)
 [Free computer forensic tools](https://forensiccontrol.com/resources/free-software/)
@@ -108,8 +125,11 @@ Name  |  Description
 ### [Malware Analysis & Reverse Engineering](https://github.com/DoGByTe-ZN/infosec-resources4all#malware-analysis-&-reverse-engineering)
 Name  |  Description
 ----  |  ----
+[How to become the best Malware Analyst E-V-E-R](http://www.hexacorn.com/blog/2018/04/14/how-to-become-the-best-malware-analyst-e-v-e-r/)
 [Reverse Engineering Malware 101 Material](https://securedorg.github.io/RE101/)
 [Reverse Engineering Malware 102 Material](https://securedorg.github.io/RE102/)
+[What is required to work in Malware Analyst Jobs](https://www.dropbox.com/s/idyqxeyfgfg9c51/What%20is%20required%20to%20work%20in%20Malware%20Analysts.pptx?dl=0#)
+[Amr Thabet](https://www.youtube.com/channel/UCkY_8Hz8ojyQQ9S6bPnHa7g/featured)
 [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware)
 [Tuts 4 You](https://tuts4you.com/)
 [crackmes](https://crackmes.one/)
@@ -152,6 +172,7 @@ Name  |  Description
 Name  |  Description
 ----  |  ----
 [Linux Survival](http://linuxsurvival.com/linux-tutorial-introduction)
+[Linux Journey](https://linuxjourney.com/)
 [NDG Linux Essentials](https://www.netacad.com/courses/ndg-linux-essentials)
 [NDG Linux Unhatched](https://www.netacad.com/courses/ndg-linux-unhatched)
 [5 Free Linux Courses](http://www.java67.com/2018/02/5-free-linux-unix-courses-for-programmers-learn-online.html#ixzz58fthWsZD)
@@ -190,7 +211,7 @@ Name  |  Description
 Name  |  Resource
 ----  |  ----
 [CompTIA Cybersecurity Analyst (CySA+)](https://certification.comptia.org/certifications/cybersecurity-analyst)
-[Cisco CCNA Cyber Ops](https://learningnetwork.cisco.com/community/certifications/ccna-cyber-ops) | [Cisco Cyber Ops Study Group](https://www.facebook.com/groups/414895922232717) , [CCNP Cyber Ops Study Group](https://www.facebook.com/groups/308820696237822)
+[Cisco CCNA Cyber Ops](https://learningnetwork.cisco.com/community/certifications/ccna-cyber-ops) | [Cisco Cyber Ops Study Group](https://www.facebook.com/groups/414895922232717) , [CCNP Cyber Ops Study Group](https://www.facebook.com/groups/308820696237822) , [SECOPS Cheatsheets](https://drive.google.com/drive/folders/1nfFocbKDhXTYZ7WnKzf_ODiQA69dj3aA)
 [Certified Ethical Hacker (CEHv9)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh) | [CEH Assessment](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/ceh-assessment)
 [CISSP](https://www.isc2.org/Certifications/CISSP) | [Luke Ahmed's CISSP Exam Preparation Facebook Group](https://www.facebook.com/groups/1525346961013038/members) , [Cybrary.it ISC2 CISSP Free Training](https://www.cybrary.it/course/cissp) , [CISSP Summary PDF](https://media.wix.com/ugd/dc6afa_fc8dba86e57a4f3cb9aaf66aff6f9d22.pdf) , [CISSP Practice Exams](https://www.mhprofessionalresources.com/sites/CISSPExams/exam.php?id=AccessControl) , [IT Dojo](https://www.youtube.com/channel/UCwUkAunxT1BNbmKVOSEoqYA) , [Study Notes and Theory](https://www.studynotesandtheory.com) , [CISSP Flashcards](https://www.brainscape.com/subjects/cissp) , [Quizlet](https://quizlet.com/2519918/cissp-practice-flash-cards)
 [CyberSec First Responder](http://logicaloperations.com/certifications/1/CyberSec-First-Responder) | [Stacey Mcbrine](https://www.youtube.com/channel/UCvqAfc3jezdj8fRqFtBYyeg/videos)
@@ -211,12 +232,15 @@ Name  |  Description
 ### [Awesome Curations](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#awesome-curations)
 Name  |  Description
 ----  |  ----
+[Security](https://github.com/sbilly/awesome-security)
 [Application Security](https://github.com/paragonie/awesome-appsec)
-[Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
+[CTF](https://github.com/apsdehal/awesome-ctf)
+[Incident Response](https://github.com/meirwah/awesome-incident-response)
+[Malware Analsis](https://github.com/rshipp/awesome-malware-analysis)
 [Web Security](https://github.com/qazbnm456/awesome-web-security)
-[Lockpicking](https://github.com/meitar/awesome-lockpicking)
+[Hacking](https://github.com/carpedm20/awesome-hacking)
+[Honeypots](https://github.com/paralax/awesome-honeypots)
 [System Adminstration](https://github.com/kahun/awesome-sysadmin)
-[Vehicle Security & Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security)
 
 ### [Other](https://github.com/DoGByTe-ZN/infosec-resources4all#other)
 Name  |  Description
