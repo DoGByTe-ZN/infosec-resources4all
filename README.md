@@ -8,7 +8,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/DoGByTeZN.svg?style=social&label=Follow%20%40DoGByTeZN)](https://twitter.com/DoGByTeZN)
 
 ## Table of Contents
-* [InfoSec Career Options](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#infoSec-career-options)
+* [InfoSec Career Options](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#infosec-career-options)
 * [Getting Started](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#getting-started)
 * [Games/Interactive Activities](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#gamesinteractive-activities)
 * [YouTube Channels](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#youtube-channels)
