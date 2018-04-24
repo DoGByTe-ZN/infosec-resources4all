@@ -108,7 +108,7 @@ Name  |  Description
 ### [Threat Intelligence](https://github.com/DoGByTe-ZN/infosec-resources4all#Threat-Intelligence)
 Name  |  Description
 ----  |  ----
-[AlienVault Open Threat Exchange](https://otx.alienvault.com/)
+[AlienVault Open Threat Exchange (OTX)](https://otx.alienvault.com/)
 [Maltiverse](https://www.maltiverse.com/search)
 [RISKIQ](https://community.riskiq.com/home)
 
