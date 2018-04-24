@@ -9,14 +9,14 @@
 
 ## Table of Contents
 
-* [InfoSec Career Options](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#InfoSec-Career-Options)
+* [InfoSec Career Options](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#infoSec-career-options)
 * [Getting Started](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#getting-started)
 * [Games/Interactive Activities](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#games)
 * [YouTube Channels](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#youtube-channels)
 * [Super Stars](https://github.com/DoGByTe-ZN/infosec-resources4all#super-stars)
 * [InfoSec Conferences](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#infosec-conferences)
 * [Books](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#books)
-* [Threat Intelligence](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#Threat-Intelligence)
+* [Threat Intelligence](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#threat-intelligence)
 * [Incident Response & Forensics](https://github.com/DoGByTe-ZN/infosec-resources4all#incident-response--forensics)
 * [Malware Analysis & Reverse Engineering](https://github.com/DoGByTe-ZN/infosec-resources4all#malware-analysis-&-reverse-engineering)
 * [CTFs](https://github.com/DoGByTe-ZN/infosec-resources4all#ctfs)
