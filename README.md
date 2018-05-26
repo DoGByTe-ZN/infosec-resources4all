@@ -253,6 +253,8 @@ Resource |  Description
 ### [CompTIA Cybersecurity Analyst (CySA+)](https://github.com/DoGByTe-ZN/CompTIA-Cybersecurity-Analyst-(CySA+))
 Resource |  Description
 ----  |  ----
+[CompTIA CySA+ (Students Group)](https://www.facebook.com/groups/163948350760241)
+
 ### [ISTQB](https://github.com/DoGByTe-ZN/ISTQB)
 Resource |  Description
 ----  |  ----
@@ -267,7 +269,8 @@ Resource |  Description
 ### [Cisco CCNP Cyber Ops](https://github.com/DoGByTe-ZN/infosec-resources4all#Cisco-CCNP-Cyber-Ops)
 Resource |  Description
 ----  |  ----
-[CCNP Cyber Ops Study Group](https://www.facebook.com/groups/308820696237822)
+**STILL IN DEVELOPEMENT** | Cisco have mentioned CCNP Cyber Ops in various Cisco Live events, but the certification is not offical as yet
+[CCNP Cyber Ops Study Group](https://www.facebook.com/groups/308820696237822) | Only CCNA Cyber Ops Certified members will be accepted into this group by showing their Acclaim electronic badges
 
 ### [Palo Alto Accredited Configuration Engineer (ACE)](https://github.com/DoGByTe-ZN/infosec-resources4all#Palo-Alto-Accredited-Configuration-Engineer-(ACE))
 Resource |  Description
@@ -284,17 +287,23 @@ Resource |  Description
 Resource |  Description
 ----  |  ----
 [Certification](http://logicaloperations.com/certifications/1/CyberSec-First-Responder)
+[CertNexus (Logical Operations) Certified Professionals](https://www.facebook.com/groups/logicaloperations)
 [Stacey Mcbrine](https://www.youtube.com/channel/UCvqAfc3jezdj8fRqFtBYyeg/videos)
 
 ### [SANS GIAC](https://github.com/DoGByTe-ZN/infosec-resources4all#SANS-GIAC)
 Resource |  Description
 ----  |  ----
+[Certification](https://www.giac.org)
+
 ### [ISACA](https://github.com/DoGByTe-ZN/infosec-resources4all#ISACA)
 Resource |  Description
 ----  |  ----
+[Certification](http://www.isaca.org/CERTIFICATION/Pages/default.aspx)
+
 ### [Offensive Security Certified Professional (OSCP)](https://github.com/DoGByTe-ZN/infosec-resources4all#OSCP) 
 Resource |  Description
 ----  |  ----
+[Certification](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional)
 [A Detailed Guide on OSCP Preparation – From Newbie to OSCP](http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
 [OSCP-Survival Guide](https://github.com/getsecnow/OSCP-Survival-Guide)
 
