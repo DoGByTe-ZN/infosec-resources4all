@@ -253,7 +253,7 @@ Resource |  Description
 ### [CompTIA Cybersecurity Analyst (CySA+)](https://github.com/DoGByTe-ZN/CompTIA-Cybersecurity-Analyst-(CySA+))
 Resource |  Description
 ----  |  ----
-[CompTIA CySA+ (Students Group)](https://www.facebook.com/groups/163948350760241)
+[CompTIA CySA+ (Students Group)](https://www.facebook.com/groups/163948350760241) | Facebook Group
 
 ### [ISTQB](https://github.com/DoGByTe-ZN/ISTQB)
 Resource |  Description
@@ -263,14 +263,14 @@ Resource |  Description
 Resource |  Description
 ----  |  ----
 [Certification](https://learningnetwork.cisco.com/community/certifications/ccna-cyber-ops)
-[Cisco Cyber Ops Study Group](https://www.facebook.com/groups/414895922232717)
+[Cisco Cyber Ops Study Group](https://www.facebook.com/groups/414895922232717) | Facebook Group
 [SECOPS Cheatsheets](https://drive.google.com/drive/folders/1nfFocbKDhXTYZ7WnKzf_ODiQA69dj3aA)
 
 ### [Cisco CCNP Cyber Ops](https://github.com/DoGByTe-ZN/infosec-resources4all#Cisco-CCNP-Cyber-Ops)
 Resource |  Description
 ----  |  ----
 **STILL IN DEVELOPEMENT** | Cisco have mentioned CCNP Cyber Ops in various Cisco Live events, but the certification is not offical as yet
-[CCNP Cyber Ops Study Group](https://www.facebook.com/groups/308820696237822) | Only CCNA Cyber Ops Certified members will be accepted into this group by showing their Acclaim electronic badges
+[CCNP Cyber Ops Study Group](https://www.facebook.com/groups/308820696237822) | Facebook Group. Only CCNA Cyber Ops Certified members will be accepted into this group by showing their Acclaim electronic badges
 
 ### [Palo Alto Accredited Configuration Engineer (ACE)](https://github.com/DoGByTe-ZN/infosec-resources4all#Palo-Alto-Accredited-Configuration-Engineer-(ACE))
 Resource |  Description
@@ -287,7 +287,7 @@ Resource |  Description
 Resource |  Description
 ----  |  ----
 [Certification](http://logicaloperations.com/certifications/1/CyberSec-First-Responder)
-[CertNexus (Logical Operations) Certified Professionals](https://www.facebook.com/groups/logicaloperations)
+[CertNexus (Logical Operations) Certified Professionals](https://www.facebook.com/groups/logicaloperations) | Facebook Group
 [Stacey Mcbrine](https://www.youtube.com/channel/UCvqAfc3jezdj8fRqFtBYyeg/videos)
 
 ### [SANS GIAC](https://github.com/DoGByTe-ZN/infosec-resources4all#SANS-GIAC)
@@ -311,7 +311,7 @@ Resource |  Description
 Resource |  Description
 ----  |  ----
 [Certification](https://www.isc2.org/Certifications/CISSP)
-[Luke Ahmed's CISSP Exam Preparation Facebook Group](https://www.facebook.com/groups/1525346961013038/members)
+[Luke Ahmed's CISSP Exam Preparation Facebook Group](https://www.facebook.com/groups/1525346961013038/members) | Facebook Group
 [Cybrary.it ISC2 CISSP Free Training](https://www.cybrary.it/course/cissp)
 [CISSP Summary PDF](https://media.wix.com/ugd/dc6afa_fc8dba86e57a4f3cb9aaf66aff6f9d22.pdf)
 [CISSP Practice Exams](https://www.mhprofessionalresources.com/sites/CISSPExams/exam.php?id=AccessControl)
