@@ -256,7 +256,7 @@ Resource |  Description
 ### [ISTQB](https://github.com/DoGByTe-ZN/ISTQB)
 Resource |  Description
 ----  |  ----
-[ISTQB](https://www.istqb.org)
+[Certification](https://www.istqb.org)
 ### [Cisco CCNA Cyber Ops](https://github.com/DoGByTe-ZN/infosec-resource4all#Cisco-CCNA-Cyber-Ops)
 Resource |  Description
 ----  |  ----
@@ -277,7 +277,7 @@ Resource |  Description
 ### [Certified Ethical Hacker (CEH)](https://github.com/DoGByTe-ZN/infosec-resources4all#Certified-Ethical-Hacker (CEH))
 Resource |  Description
 ----  |  ----
-[Certification)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh)
+[Certification](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh)
 [CEH Assessment](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/ceh-assessment)
 
 ### [CyberSec First Responder (CFR)](https://github.com/DoGByTe-ZN/infosec-resources4all#CybeSec-First-Responder-(CFR))
