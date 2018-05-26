@@ -25,7 +25,7 @@
 * [CTFs](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#ctfs)
 * [Cloud Security](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#cloud-security)
 * [Cryptography](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#cryptography)
-* [General Data Protection Regulation (GDPR)](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#General-Data-Protection-Reputation-(GDPR))
+* [General Data Protection Regulation (GDPR)](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#General-Data-Protection-Reputation-(GDPR)
 * [CSIRTs](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#csirts)
 * [Regular Expressions](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#regular-expressions)
 * [Linux](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#linux)
