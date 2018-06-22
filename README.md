@@ -122,6 +122,10 @@ Resource |  Description
 [CCNA Cyber Ops SECFND 210-250 Official Cert Guide](https://www.amazon.com/Cyber-SECFND-210-250-Official-Certification/dp/1587147025)
 [CCNA Cyber Ops SECOPS 210-255 Official Cert Guide](https://www.amazon.com/Cyber-SECOPS-210-255-Official-Certification/dp/1587147033)
 [Humble Bundle - Books](https://www.humblebundle.com/books/win-at-work-books) | Its worth checking the Humble Bundle website for never to be missed Cybersecurity book bundle bargains
+[How to Hack Like a PORNSTAR](https://books2read.com/u/bWzdBx)
+[How to Hack Like a GOD](https://books2read.com/u/mBPGOy)
+[How to Hack Like a LEGEND](https://amzn.to/2uWh1Up)
+
 
 ### [Security Information and Event Management (SIEM)](https://github.com/DoGByTe-ZN/infosec-resources4all#Security-Information-and-event-management-(SIEM))
 Resource |  Description
