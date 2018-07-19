@@ -337,7 +337,7 @@ Resource |  Description
 [CTF](https://github.com/apsdehal/awesome-ctf)
 [CVE PoCs](https://github.com/qazbnm456/awesome-cve-poc)
 [Incident Response](https://github.com/meirwah/awesome-incident-response)
-[Malware Analsis](https://github.com/rshipp/awesome-malware-analysis)
+[Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 [Web Security](https://github.com/qazbnm456/awesome-web-security)
 [Hacking](https://github.com/carpedm20/awesome-hacking)
 [Honeypots](https://github.com/paralax/awesome-honeypots)
