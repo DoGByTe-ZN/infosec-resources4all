@@ -18,7 +18,7 @@
 * [Security Information and Event Management (SIEM)](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#Security-Information-and-event-management-(SIEM))
 * [Vulnerability Management](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#vulnerability-management)
 * [Threat Intelligence](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#threat-intelligence)
-* [Incident Response & Forensics](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#incident-response--forensics)
+* [Digital Forensics & Incident Response](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#digital-forensics-&-incident-response)
 * [Malware Analysis & Reverse Engineering](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#malware-analysis-&-reverse-engineering)
 * [Web Security](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#web-security)
 * [Penetration Testing](https://github.com/DoGByTe-ZN/infosec-resources4all/blob/master/README.md#penetration-testing)
@@ -139,7 +139,7 @@ Resource |  Description
 [Maltiverse](https://www.maltiverse.com/search)
 [RISKIQ](https://community.riskiq.com/home)
 
-### [Incident Response & Forensics](https://github.com/DoGByTe-ZN/infosec-resources4all#incident-response--forensics)
+### [Digital Forensics & Incident Response](https://github.com/DoGByTe-ZN/infosec-resources4all#digital-forensics-&-incident-response)
 Resource |  Description
 ----  |  ----
 [Introduction to DFIR](https://medium.com/@sroberts/introduction-to-dfir-d35d5de4c180)
