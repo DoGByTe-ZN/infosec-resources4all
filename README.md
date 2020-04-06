@@ -151,9 +151,8 @@ Resource |  Description
 ### [Malware Analysis & Reverse Engineering](https://github.com/DoGByTe-ZN/infosec-resources4all#malware-analysis-&-reverse-engineering)
 Resource |  Description
 ----  |  ----
+[CS6038/CS5138 Malware Analysis](https://class.malware.re/?fbclid=IwAR0yXeZ9KLQ8WZ4qwPSpWn70kz5Eh1uhQBCCP3LeYiNT-ioXhM-W5wmdYUE)
 [How to become the best Malware Analyst E-V-E-R](http://www.hexacorn.com/blog/2018/04/14/how-to-become-the-best-malware-analyst-e-v-e-r/)
-[Reverse Engineering Malware 101 Material](https://securedorg.github.io/RE101/)
-[Reverse Engineering Malware 102 Material](https://securedorg.github.io/RE102/)
 [What is required to work in Malware Analyst Jobs](https://www.dropbox.com/s/idyqxeyfgfg9c51/What%20is%20required%20to%20work%20in%20Malware%20Analysts.pptx?dl=0#)
 [Amr Thabet](https://www.youtube.com/channel/UCkY_8Hz8ojyQQ9S6bPnHa7g/featured)
 [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware)
