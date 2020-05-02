@@ -93,6 +93,7 @@ Resource |  Description
 [Forensic Lunch](https://www.youtube.com/channel/UCZ7mQV3j4GNX-LU1IKPVQZg)
 [Udemy Tech](https://www.youtube.com/channel/UCU6e4MJtvlcX5DBLP1cq8hQ/playlists)
 [CQURE Academy](https://www.youtube.com/channel/UCWIEIMHXyJ62RF4aVmU30og/videos)
+[Hacksplained](https://www.youtube.com/c/hacksplained)|Hacksplained provides introductory hacking lessons on mobile and web app hacking
 
 ### [InfoSec Influencers](https://github.com/DoGByTe-ZN/infosec-resources4all#infosec-influencers)
 Name  |  Resource
